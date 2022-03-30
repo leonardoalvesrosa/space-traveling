@@ -65,7 +65,7 @@ export default function Post({ post }: PostProps) {
       <main className={styles.container} key={post.first_publication_date}>
         <h2>{post.data.title}</h2>
         <div className={styles.info}>
-          <time><img src="/images/calendar.png"></img>{format(new Date(post.first_publication_date), `dd MMM yyyy`)}</time>
+          <time><img src="/images/calendar.png"></img>{(format(new Date(post.first_publication_date), `dd MMM yyyy`)).toLowerCase()}</time>
           <span><img src="/images/user.png"></img>{post.data.author}</span>
           <span><img src="/images/clock.png"></img>{timeReading} min</span>
         </div>
