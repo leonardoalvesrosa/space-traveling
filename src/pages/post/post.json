@@ -1,0 +1,46 @@
+{
+  "id": "YjpmRhAAACQA2dWX",
+  "uid": "jquery-a-historia-da-biblioteca-js-mais-usada-da-ultima",
+  "url": null,
+  "type": "post",
+  "href": "https://leodev-space-traveling.cdn.prismic.io/api/v2/documents/search?ref=YjpmWBAAACMA2dXo&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22YjpmRhAAACQA2dWX%22%29+%5D%5D",
+  "tags": [],
+  "first_publication_date": "2022-03-23T00:14:16+0000",
+  "last_publication_date": "2022-03-23T00:14:16+0000",
+  "slugs": [
+    "jquery-a-historia-da-biblioteca-js-mais-usada-da-ultima-decada"
+  ],
+  "linked_documents": [],
+  "lang": "pt-br",
+  "alternate_languages": [],
+  "data": {
+    "title": "jQuery: a história da biblioteca JS mais usada da última década",
+    "content": [
+      {
+        "heading": "“Programar deve ser algo divertido”",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "A web ainda caminhava em direção ao que temos acesso hoje em dia, novas tecnologias de desenvolvimento surgiram e a demanda por soluções se tornou cada vez mais necessária. O desenvolvimento web era feito por quem era, de fato, apaixonado pela programação e as coisas aconteciam por meio de erros e acertos.",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Naquela época muita coisa foi ao ar de forma totalmente experimental e inovadora.",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "É nesse cenário de experimentações que surge o jQuery, em 2006 — mesmo ano em que o Facebook foi colocado ao mundo — criação de John Resig, um jovem programador, na época com seus 22 anos, graduando do Instituto de Tecnologia de Rochester.",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Uma das coisas que podem explicar isso é o surgimento e impulsão de tecnologias mais práticas e modernas — como React, Vue ou Angular — e alinhadas com as novas demandas do mercado de trabalho, por parte de iniciativas emergentes na web.",
+            "spans": []
+          }
+        ]
+      }
+    ]
+  }
+}
